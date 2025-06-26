@@ -1,5 +1,5 @@
 
-  <img src="https://github.com/Markslodurt/Markslodurt/blob/main/bannerProfile.gif" alt="Fallout GIF" style="width:auto; height:800 px"/>
+  <img src="https://github.com/Markslodurt/Markslodurt/blob/main/bannerProfile.gif" alt="Fallout GIF" style="width:auto; height:500 px"/>
 
 
 <!--
