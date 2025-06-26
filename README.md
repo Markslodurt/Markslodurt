@@ -1,4 +1,6 @@
-## Hi there 👋
+
+  <img src="https://github.com/Markslodurt/Markslodurt/blob/main/bannerProfile.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+
 
 <!--
 **Markslodurt/Markslodurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
