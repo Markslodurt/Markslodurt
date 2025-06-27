@@ -1,18 +1,20 @@
 
   <img src="https://github.com/Markslodurt/Markslodurt/blob/main/bannerPerfil.gif" alt="banner bem-vindo"/>
 
+# Olá, me chamo Marcos!
 
-<!--
-**Markslodurt/Markslodurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🧠 No que estou trabalhando agora?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  <a href="https://github.com/Markslodurt/estudosFrontEnd">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Markslodurt&repo=estudosFrontEnd&theme=tokyonight&border_radius=10">
+  </a>
+
+  <a href="https://github.com/Markslodurt">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Markslodurt&show_icons=true&theme=tokyonight&border_radius=10">
+  </a>
+
+</div>
+
