@@ -3,7 +3,7 @@
 
 # Olá, me chamo Marcos!
 
-
+## 🧠 No que estou trabalhando agora?
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none;">
